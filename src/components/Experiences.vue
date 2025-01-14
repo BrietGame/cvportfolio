@@ -1,6 +1,6 @@
 <template>
     <div id="experiences-pro">
-        <h3 class="text-4xl font-thin italic mb-4">Expériences professionnelles</h3>
+        <h3 class="text-3xl sm:text-4xl font-thin italic mb-4">Expériences professionnelles</h3>
         <ol class="relative border-s border-gray-200 dark:border-gray-700">                  
             <li v-for="(experience, i) in experiences" :key="i" class="mb-10 ms-4">
                 <span v-if="experience.inProgress" class="bg-purple-100 text-purple-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-purple-900 dark:text-purple-300">En cours</span>
@@ -19,7 +19,7 @@
         <Modal :exp="experienceSelected" />
     </div>
     <div id="experiences-asso" class="mt-6">
-        <h3 class="text-4xl font-thin italic mb-4">Expériences associatives</h3>
+        <h3 class="text-3xl sm:text-4xl font-thin italic mb-4">Expériences associatives</h3>
         <ol class="relative border-s border-gray-200 dark:border-gray-700">                  
             <li v-for="(experience, i) in experiencesAsso" :key="i" class="mb-10 ms-4">
                 <span v-if="experience.inProgress" class="bg-purple-100 text-purple-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-purple-900 dark:text-purple-300">En cours</span>

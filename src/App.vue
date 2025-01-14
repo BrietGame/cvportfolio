@@ -13,30 +13,30 @@ import Experiences from './components/Experiences.vue';
 <template>
   <main>
         <section class="mt-10">
-            <div class="flex gap-10 w-full justify-between">
+            <div class="flex flex-col sm:flex-row gap-10 w-full justify-between">
                 <img
                 src="./assets/alexis.jpg"
                 alt=""
                 class="size-80 rounded-lg object-cover"
                 />
-                <div class="self-end flex flex-col gap-5">
-                    <p class="text-2xl font-thin italic text-gray-900">Disponible pour un poste de</p>
-                    <h1 class="text-5xl font-bold text-gray-900">Développeur web / web mobile</h1>
+                <div class="sm:self-end flex flex-col gap-5">
+                    <p class="text-1xl text-center sm:text-2xl sm:text-left font-thin italic text-gray-900">Disponible pour un poste de</p>
+                    <h1 class="text-2xl text-center sm:text-5xl sm:text-left font-bold text-gray-900">Développeur web / web mobile</h1>
                 </div>
-                <div class="self-start flex flex-col gap-5 pt-10">
-                    <span class="text-1xl font-bold"><i class="fa-solid fa-location-arrow text-2xl"></i> 76000 Rouen</span>
-                    <span class="text-1xl font-bold"><i class="fa-solid fa-magnifying-glass text-2xl"></i> CDI - CDD - Freelance</span>
+                <div class="sm:self-start flex flex-col gap-5 pt-10">
+                    <span class="text-center sm:text-left text-1xl font-bold"><i class="fa-solid fa-location-arrow text-2xl"></i> 76000 Rouen</span>
+                    <span class="text-center sm:text-left text-1xl font-bold"><i class="fa-solid fa-magnifying-glass text-2xl"></i> CDI - CDD - Freelance</span>
                 </div>
             </div>
             
-            <h2 class="mt-6 text-6xl font-bold text-gray-900">Alexis</h2>
-            <h2 class="text-4xl font-bold text-gray-900">BRIET</h2>
+            <h2 class="mt-20 text-center text-4xl sm:mt-6 sm:text-left sm:text-6xl font-bold text-gray-900">Alexis</h2>
+            <h2 class="text-center text-3xl sm:mt-6 sm:text-left sm:text-4xl font-bold text-gray-900">BRIET</h2>
             <SocialLink />
         </section>
-        <section class="flex gap-4 mt-10 w-full">
+        <section class="flex flex-col sm:flex-row gap-20 sm:gap-5 mt-10 w-full">
             <Summary />
 
-            <div class="w-3/4 flex flex-col gap-20">
+            <div class="px-4 sm:p-0 sm:w-3/4 flex flex-col gap-20">
                 <Bio />
 
                 <Skills />

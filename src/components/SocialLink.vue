@@ -1,5 +1,5 @@
 <template>
-    <ul class="flex gap-5 mt-5">
+    <ul class="flex justify-center sm:justify-start gap-5 mt-5">
         <li v-for="link in socialLinks" :key="link.name">
             <a :href="link.url" target="_blank">
                 <i :class="link.icon + ' text-2xl'"></i>

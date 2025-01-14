@@ -1,6 +1,6 @@
 <template>
-    <aside class="w-1/4">
-        <ul class="flex flex-col gap-5">
+    <aside class="sm:w-1/4">
+        <ul class="flex flex-col items-center sm:items-start gap-5">
             <li>
                 <a class="text-2xl italic hover:font-bold transition-all" href="#biographie">Biographie</a>
             </li>
