@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Livreur Amazon chez Abeille Rush",
+        "start": "Novembre 2024",
+        "end": "Aujourd'hui",
+        "inProgress": true,
+        "extract": "Livraison de colis Amazon dans la Normandie et la Picardie.",
+        "description": "J'ai commencé cette mission pour la forte demande durant la période de Noël où chaque jour, plus de 100 colis sont à livrer.<br><br>J'ai été formé pour m'adapter au fonctionnement d'Amazon Logistics afin de pouvoir livrer mes futurs clients au sein de la Normandie et de la Picardie.<br><br>À travers cette expérience qui sort de mon parcours original, cela m'a permis d'acquérir des compétences qui me serviront pour la suite de mon parcours comme :<br>- L'adaptation<br>- L'organisation<br>- La communication"
+    },
+    {
+        "name": "Associé chez BusinessApp",
+        "start": "Octobre 2024",
+        "end": "Aujourd'hui",
+        "inProgress": true,
+        "extract": "Développement d'un SaaS pour créer son réseau entre professionnels dans plusieurs secteurs d'activités sur une seule plateforme disponible sur web et sur mobile.",
+        "description": "Test"
+    },
+    {
+        "name": "Développeur web en alternance chez TROP-PLUS",
+        "start": "Août 2022",
+        "end": "Août 2024",
+        "inProgress": false,
+        "extract": "Développement de nouvelles fonctionnalités de leurs SaaS autour de la billetterie et de l'accès aux événements en méthode AGILE.",
+        "description": "Test"
+    },
+    {
+        "name": "Développeur web en stage chez TROP-PLUS",
+        "start": "Avril 2022",
+        "end": "Août 2022",
+        "inProgress": false,
+        "extract": "Découverte du développement web en entreprise et de la méthode AGILE ainsi que de leurs projets.",
+        "description": "Test"
+    },
+    {
+        "name": "Développeur web en freelance chez la Salty Academy",
+        "start": "Septembre 2021",
+        "end": "Août 2023",
+        "inProgress": false,
+        "extract": "Conception et développement d'outils pour de la production évènementielle.",
+        "description": "Test"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Développeur Web et Web Mobile",
+        "description": "Titre professionnel de niveau V (Bac+2) - Need For School, Rouen (76)",
+        "image": "./src/assets/nfs.png",
+        "dates": "2021 - 2023"
+    },
+    {
+        "name": "Concepteur développeur d'applications",
+        "description": "Titre professionnel de niveau VI (Bac+3/4) - Need For School, Rouen (76)",
+        "image": "./src/assets/nfs.png",
+        "dates": "2023 - 2024"
+    }
+]

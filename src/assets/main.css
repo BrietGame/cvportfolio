@@ -1,0 +1,11 @@
+@import './base.css';
+
+html, body {
+  scroll-behavior: smooth;
+}
+
+main {
+  margin: 0 auto;
+  padding: 0 5rem;
+  box-sizing: border-box;
+}

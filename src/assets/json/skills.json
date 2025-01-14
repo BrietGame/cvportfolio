@@ -1,0 +1,158 @@
+[
+    {
+        "name": ".NET"
+    },
+    {
+        "name": "Angular"
+    },
+    {
+        "name": "ASP.NET Core"
+    },
+    {
+        "name": "Axios"
+    },
+    {
+        "name": "Azure"
+    },
+    {
+        "name": "Bootstrap"
+    },
+    {
+        "name": "CakePHP"
+    },
+    {
+        "name": "C#"
+    },
+    {
+        "name": "C++"
+    },
+    {
+        "name": "CircleCI"
+    },
+    {
+        "name": "CodeIgniter"
+    },
+    {
+        "name": "Codemagic"
+    },
+    {
+        "name": "CSS"
+    },
+    {
+        "name": "Django"
+    },
+    {
+        "name": "Docker"
+    },
+    {
+        "name": "Elasticsearch"
+    },
+    {
+        "name": "ES6"
+    },
+    {
+        "name": "Figma"
+    },
+    {
+        "name": "Flask"
+    },
+    {
+        "name": "Git"
+    },
+    {
+        "name": "GitHub Actions"
+    },
+    {
+        "name": "HTML"
+    },
+    {
+        "name": "Java"
+    },
+    {
+        "name": "JavaScript"
+    },
+    {
+        "name": "JUnit"
+    },
+    {
+        "name": "Jakarta"
+    },
+    {
+        "name": "Jenkins"
+    },
+    {
+        "name": "jQuery"
+    },
+    {
+        "name": "Jira"
+    },
+    {
+        "name": "Kotlin"
+    },
+    {
+        "name": "Kubernetes"
+    },
+    {
+        "name": "Lombok"
+    },
+    {
+        "name": "Linux"
+    },
+    {
+        "name": "MariaDB"
+    },
+    {
+        "name": "MongoDB"
+    },
+    {
+        "name": "MySQL"
+    },
+    {
+        "name": "Node.js"
+    },
+    {
+        "name": "PostgreSQL"
+    },
+    {
+        "name": "Python"
+    },
+    {
+        "name": "PWA"
+    },
+    {
+        "name": "RabbitMQ"
+    },
+    {
+        "name": "React"
+    },
+    {
+        "name": "REST API"
+    },
+    {
+        "name": "SCSS"
+    },
+    {
+        "name": "Spring Boot"
+    },
+    {
+        "name": "Symfony"
+    },
+    {
+        "name": "TailwindCSS"
+    },
+    {
+        "name": "Trello"
+    },
+    {
+        "name": "Typescript"
+    },
+    {
+        "name": "Vue.js"
+    },
+    {
+        "name": "WebSocket"
+    },
+    {
+        "name": "WordPress"
+    }
+]
