@@ -13,16 +13,7 @@
         "end": "Aujourd'hui",
         "inProgress": true,
         "extract": "Développement d'un SaaS pour créer son réseau entre professionnels dans plusieurs secteurs d'activités sur une seule plateforme disponible sur web et sur mobile.",
-        "description": "• Refonte complète de l’interface SaaS en migrant de Bootstrap vers Tailwind CSS, réduisant
-le temps de chargement des pages de 30 % et améliorant l’expérience utilisateur. <br>
-• Développement de nouvelles fonctionnalités clés, contribuant à une croissance de +10 %
-de nouveaux clients grâce à une meilleure ergonomie et performance. <br>
-• Participation active à l’évolution du produit en tant qu’associé, en apportant des visions
-d’amélioration technique sur l’application web (MVC) et mobile (Flutter). <br>
-• Suivi des bonnes pratiques Agile (Scrum) et mise en place de pipelines CI/CD pour un
-déploiement fluide. <br>
-• Automatisation du déploiement mobile iOS & Android via CodeMagic, garantissant des
-mises à jour continues et sans interruption."
+        "description": "• Refonte complète de l’interface SaaS en migrant de Bootstrap vers Tailwind CSS, réduisant le temps de chargement des pages de 30 % et améliorant l’expérience utilisateur.<br>• Développement de nouvelles fonctionnalités clés, contribuant à une croissance de +10 % de nouveaux clients grâce à une meilleure ergonomie et performance.<br>• Participation active à l’évolution du produit en tant qu’associé, en apportant des visions d’amélioration technique sur l’application web (MVC) et mobile (Flutter).<br>• Suivi des bonnes pratiques Agile (Scrum) et mise en place de pipelines CI/CD pour un déploiement fluide.<br>• Automatisation du déploiement mobile iOS & Android via CodeMagic, garantissant des mises à jour continues et sans interruption."
     },
     {
         "name": "Développeur web en alternance chez TROP-PLUS",
@@ -30,15 +21,7 @@ mises à jour continues et sans interruption."
         "end": "Août 2024",
         "inProgress": false,
         "extract": "Développement de nouvelles fonctionnalités de leurs SaaS autour de la billetterie et de l'accès aux événements en méthode AGILE.",
-        "description": "• Développement d’une fonctionnalité clé : génération de billets PDF personnalisables avec
-les informations de l’événement et un QR Code intégré, en méthode Agile (Scrum). <br>
-• Création et optimisation du site vitrine de l’entreprise pour présenter ses différentes
-solutions. <br>
-• Développement et personnalisation de sites WordPress pour plusieurs clients, intégrant
-Elementor Pro et YoastSEO. <br>
-• Résolution de près de 500 tickets d’anomalies et d’évolutions sur divers projets SaaS, en
-collaboration avec l’équipe via GitHub (branches, pull requests), garantissant une
-amélioration continue des solutions."
+        "description": "• Développement d’une fonctionnalité clé : génération de billets PDF personnalisables avec les informations de l’événement et un QR Code intégré, en méthode Agile (Scrum).<br>• Création et optimisation du site vitrine de l’entreprise pour présenter ses différentes solutions.<br>• Développement et personnalisation de sites WordPress pour plusieurs clients, intégrant Elementor Pro et YoastSEO.<br>• Résolution de près de 500 tickets d’anomalies et d’évolutions sur divers projets SaaS, en collaboration avec l’équipe via GitHub (branches, pull requests), garantissant une amélioration continue des solutions."
     },
     {
         "name": "Développeur web en stage chez TROP-PLUS",
@@ -54,20 +37,6 @@ amélioration continue des solutions."
         "end": "Août 2023",
         "inProgress": false,
         "extract": "Conception et développement d'outils pour de la production évènementielle.",
-        "description": "• Développé une solution en Symfony/React pour la gestion à distance d'une production
-audiovisuelle en temps réel, permettant une interactivité directe entre le streamer et son
-audience. <br>
-• Permis aux streamers de personnaliser l’affichage d’éléments interactifs (sondages Twitch,
-messages, tweets, etc.), enrichissant l'expérience utilisateur. <br>
-• Conçu et intégré un overlay pour les compétitions, affichant en temps réel le score des
-équipes et des informations clés pour les spectateurs. <br>
-• Mis en place des brackets et animations dynamiques pour renforcer l'aspect visuel du
-tournoi. <br>
-• Géré l’ensemble de la solution à distance via une régie, assurant la fluidité et l'efficacité des
-productions en direct. <br>
-• Participé à un événement de grande envergure en Belgique, diffusé en direct à plus de 1000
-spectateurs simultanés, avec plus de 200 joueurs et une équipe technique de 5 personnes. <br>
-• Optimisé la collaboration en équipe en utilisant des outils de gestion de projet à distance,
-assurant la coordination entre les différents intervenants techniques."
+        "description": "• Développé une solution en Symfony/React pour la gestion à distance d'une production audiovisuelle en temps réel, permettant une interactivité directe entre le streamer et son audience.<br>• Permis aux streamers de personnaliser l’affichage d’éléments interactifs (sondages Twitch, messages, tweets, etc.), enrichissant l'expérience utilisateur.<br>• Conçu et intégré un overlay pour les compétitions, affichant en temps réel le score des équipes et des informations clés pour les spectateurs.<br>• Mis en place des brackets et animations dynamiques pour renforcer l'aspect visuel du tournoi.<br>• Géré l’ensemble de la solution à distance via une régie, assurant la fluidité et l'efficacité des productions en direct.<br>• Participé à un événement de grande envergure en Belgique, diffusé en direct à plus de 1000 spectateurs simultanés, avec plus de 200 joueurs et une équipe technique de 5 personnes.<br>• Optimisé la collaboration en équipe en utilisant des outils de gestion de projet à distance, assurant la coordination entre les différents intervenants techniques."
     }
 ]
