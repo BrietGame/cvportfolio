@@ -20,8 +20,19 @@ import Experiences from './components/Experiences.vue';
                 class="size-80 rounded-lg object-cover"
                 />
                 <div class="sm:self-end flex flex-col gap-5">
-                    <p class="text-1xl text-center sm:text-2xl sm:text-left font-thin italic text-gray-900">Disponible pour un poste de</p>
-                    <h1 class="text-2xl text-center sm:text-5xl sm:text-left font-bold text-gray-900">Développeur web / web mobile</h1>
+                    <p class="text-1xl text-center sm:text-2xl sm:text-left italic text-gray-900">Disponible pour une mission</p>
+                    <h1 class="text-2xl text-center sm:text-5xl sm:text-left font-bold text-gray-900">Développeur fullstack</h1>
+
+                    <div class="flex flex-col items-center px-4 sm:px-0 sm:flex-row gap-2">
+                        <a href="https://drive.google.com/file/d/1wB-UrzwJb00yUUVkBoqfCeggQwsxs2SE/view?usp=sharing" target="_blank" class="bg-blue-500 text-white px-4 py-2 rounded-md">
+                            <i class="fa-solid fa-file-pdf"></i>
+                            Jeter un oeil à mon CV
+                        </a>
+                        <a href="https://drive.google.com/file/d/1iITwsiT2ROE32cqqEv5tNWCzX5HTnQrf/view?usp=sharing" target="_blank" class="bg-blue-800 text-white px-4 py-2 rounded-md">
+                            <i class="fa-solid fa-file-pdf"></i>
+                            Consulter la version détaillée de mon CV
+                        </a>
+                    </div>
                 </div>
                 <div class="sm:self-start flex flex-col gap-5 pt-10">
                     <span class="text-center sm:text-left text-1xl font-bold"><i class="fa-solid fa-location-arrow text-2xl"></i> 76000 Rouen</span>
