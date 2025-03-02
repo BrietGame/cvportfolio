@@ -7,7 +7,6 @@ import Realisations from './components/Realisations.vue';
 import Formations from './components/Formations.vue';
 import Experiences from './components/Experiences.vue';
 
-
 </script>
 
 <template>

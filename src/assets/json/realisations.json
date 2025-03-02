@@ -2,13 +2,13 @@
     {
         "name": "HubGamers",
         "description": "SaaS de gestion d'équipe et de tournois de jeux vidéos",
-        "image": "./assets/hubgamers.webp",
-        "link": "https://hubgamers.alexisbriet.fr"
+        "image": "/public/images/hubgamers.webp",
+        "link": "#"
     },
     {
         "name": "BusinessApp",
         "description": "SaaS de création de son réseau entre professionnels",
-        "image": "./assets/BusinessApp.jpg",
+        "image": "/public/images/BusinessApp.jpg",
         "link": "https://businessapp.fr"
     }
 ]
